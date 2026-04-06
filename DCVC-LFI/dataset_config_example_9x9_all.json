@@ -1,0 +1,665 @@
+{
+    "root_path": "path/to/test/png",
+    "test_classes": {
+      "EPFL_5": {
+      "test": 1,
+      "base_path": "EPFL_5",
+      "src_type": "png",
+      "sequences": {
+        "Ankylosaurus_&_Diplodocus_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "Bikes": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "Color_Chart_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "Danger_de_Mort": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "Desktop": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "Flowers": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "Fountain_&_Vincent_2": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "Friends_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "ISO_Chart_12": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "Magnets_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "Stone_Pillars_Outside": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        },
+        "Vespa": {
+          "width": 624,
+          "height": 432,
+          "frames": 5,
+          "gop": 5
+        }
+      }
+    },
+      "EPFL_9": {
+      "test": 1,
+      "base_path": "EPFL_9",
+      "src_type": "png",
+      "sequences": {
+        "Ankylosaurus_&_Diplodocus_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "Bikes": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "Color_Chart_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "Danger_de_Mort": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "Desktop": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "Flowers": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "Fountain_&_Vincent_2": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "Friends_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "ISO_Chart_12": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "Magnets_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "Stone_Pillars_Outside": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        },
+        "Vespa": {
+          "width": 624,
+          "height": 432,
+          "frames": 9,
+          "gop": 9
+        }
+      }
+    },
+      "EPFL_13": {
+      "test": 1,
+      "base_path": "EPFL_13",
+      "src_type": "png",
+      "sequences": {
+        "Ankylosaurus_&_Diplodocus_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "Bikes": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "Color_Chart_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "Danger_de_Mort": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "Desktop": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "Flowers": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "Fountain_&_Vincent_2": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "Friends_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "ISO_Chart_12": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "Magnets_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "Stone_Pillars_Outside": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        },
+        "Vespa": {
+          "width": 624,
+          "height": 432,
+          "frames": 13,
+          "gop": 13
+        }
+      }
+    },
+      "EPFL_25": {
+      "test": 1,
+      "base_path": "EPFL_25",
+      "src_type": "png",
+      "sequences": {
+        "Ankylosaurus_&_Diplodocus_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "Bikes": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "Color_Chart_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "Danger_de_Mort": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "Desktop": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "Flowers": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "Fountain_&_Vincent_2": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "Friends_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "ISO_Chart_12": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "Magnets_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "Stone_Pillars_Outside": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        },
+        "Vespa": {
+          "width": 624,
+          "height": 432,
+          "frames": 25,
+          "gop": 25
+        }
+      }
+    },
+      "EPFL_41": {
+      "test": 1,
+      "base_path": "EPFL_41",
+      "src_type": "png",
+      "sequences": {
+        "Ankylosaurus_&_Diplodocus_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "Bikes": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "Color_Chart_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "Danger_de_Mort": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "Desktop": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "Flowers": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "Fountain_&_Vincent_2": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "Friends_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "ISO_Chart_12": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "Magnets_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "Stone_Pillars_Outside": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        },
+        "Vespa": {
+          "width": 624,
+          "height": 432,
+          "frames": 41,
+          "gop": 41
+        }
+      }
+    },
+      "EPFL_81": {
+      "test": 1,
+      "base_path": "EPFL_81",
+      "src_type": "png",
+      "sequences": {
+        "Ankylosaurus_&_Diplodocus_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "Bikes": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "Color_Chart_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "Danger_de_Mort": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "Desktop": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "Flowers": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "Fountain_&_Vincent_2": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "Friends_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "ISO_Chart_12": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "Magnets_1": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "Stone_Pillars_Outside": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        },
+        "Vespa": {
+          "width": 624,
+          "height": 432,
+          "frames": 81,
+          "gop": 81
+        }
+      }
+    },
+      "HCI_5": {
+      "test": 1,
+      "base_path": "HCI_5",
+      "src_type": "png",
+      "sequences": {
+        "bedroom": {
+          "width": 512,
+          "height": 512,
+          "frames": 5,
+          "gop": 5
+        },
+        "bicycle": {
+          "width": 512,
+          "height": 512,
+          "frames": 5,
+          "gop": 5
+        },
+        "herbs": {
+          "width": 512,
+          "height": 512,
+          "frames": 5,
+          "gop": 5
+        },
+        "origami": {
+          "width": 512,
+          "height": 512,
+          "frames": 5,
+          "gop": 5
+        }
+      }
+    },
+      "HCI_9": {
+      "test": 1,
+      "base_path": "HCI_9",
+      "src_type": "png",
+      "sequences": {
+        "bedroom": {
+          "width": 512,
+          "height": 512,
+          "frames": 9,
+          "gop": 9
+        },
+        "bicycle": {
+          "width": 512,
+          "height": 512,
+          "frames": 9,
+          "gop": 9
+        },
+        "herbs": {
+          "width": 512,
+          "height": 512,
+          "frames": 9,
+          "gop": 9
+        },
+        "origami": {
+          "width": 512,
+          "height": 512,
+          "frames": 9,
+          "gop": 9
+        }
+      }
+    },
+      "HCI_13": {
+      "test": 1,
+      "base_path": "HCI_13",
+      "src_type": "png",
+      "sequences": {
+        "bedroom": {
+          "width": 512,
+          "height": 512,
+          "frames": 13,
+          "gop": 13
+        },
+        "bicycle": {
+          "width": 512,
+          "height": 512,
+          "frames": 13,
+          "gop": 13
+        },
+        "herbs": {
+          "width": 512,
+          "height": 512,
+          "frames": 13,
+          "gop": 13
+        },
+        "origami": {
+          "width": 512,
+          "height": 512,
+          "frames": 13,
+          "gop": 13
+        }
+      }
+    },
+      "HCI_25": {
+      "test": 1,
+      "base_path": "HCI_25",
+      "src_type": "png",
+      "sequences": {
+        "bedroom": {
+          "width": 512,
+          "height": 512,
+          "frames": 25,
+          "gop": 25
+        },
+        "bicycle": {
+          "width": 512,
+          "height": 512,
+          "frames": 25,
+          "gop": 25
+        },
+        "herbs": {
+          "width": 512,
+          "height": 512,
+          "frames": 25,
+          "gop": 25
+        },
+        "origami": {
+          "width": 512,
+          "height": 512,
+          "frames": 25,
+          "gop": 25
+        }
+      }
+    },
+      "HCI_41": {
+      "test": 1,
+      "base_path": "HCI_41",
+      "src_type": "png",
+      "sequences": {
+        "bedroom": {
+          "width": 512,
+          "height": 512,
+          "frames": 41,
+          "gop": 41
+        },
+        "bicycle": {
+          "width": 512,
+          "height": 512,
+          "frames": 41,
+          "gop": 41
+        },
+        "herbs": {
+          "width": 512,
+          "height": 512,
+          "frames": 41,
+          "gop": 41
+        },
+        "origami": {
+          "width": 512,
+          "height": 512,
+          "frames": 41,
+          "gop": 41
+        }
+      }
+    },
+      "HCI_81": {
+      "test": 1,
+      "base_path": "HCI_81",
+      "src_type": "png",
+      "sequences": {
+        "bedroom": {
+          "width": 512,
+          "height": 512,
+          "frames": 81,
+          "gop": 81
+        },
+        "bicycle": {
+          "width": 512,
+          "height": 512,
+          "frames": 81,
+          "gop": 81
+        },
+        "herbs": {
+          "width": 512,
+          "height": 512,
+          "frames": 81,
+          "gop": 81
+        },
+        "origami": {
+          "width": 512,
+          "height": 512,
+          "frames": 81,
+          "gop": 81
+        }
+      }
+    }
+    }
+}
