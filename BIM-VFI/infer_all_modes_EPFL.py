@@ -211,7 +211,7 @@ INTERPOLATION_PAIRS: Dict[str, List[Dict]] = {
 
 if __name__ == '__main__':
     # BASE_ROOT_DIR = "!!Path to PNGs after DCVC-LFI compressed sparse key views!!"
-    BASE_ROOT_DIR = "/mnt/e/Code/P3/DCVC-avs-HEM-85/experiments/DCVC-LF/q4.tar/unsnaked_rename_test"
+    BASE_ROOT_DIR = "/mnt/e/Code/P3/DCVC-avs-HEM-85/experiments/DCVC-LFI/q4.tar/unsnaked_rename_test"
 
     cfg = "./cfgs/bim_vfi_demo.yaml"
     MODES_TO_RUN = ["EPFL_5", "EPFL_9", "EPFL_13", "EPFL_25", "EPFL_41"]
